@@ -1,0 +1,5 @@
+{"getOrderInfo":{"username":"gegd","password":"111111"},
+"payReq":{"orderid":"","recename":"gegd","recephone":"18261630330","receaddr":"浦东新区居里路99号"},
+"login":{"userName":"rm","password":"rm123456"},
+"excudeJob":{"id":201,"executorParam":"aaa"}
+}
